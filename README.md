@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-☕️ My new mobile app, Cafe Buddy, is now available! Visit the site to [learn more](https://cafebuddy.app/)!
+☕️ My new mobile app, Cafe Buddy, is now available! Visit [cafebuddy.app](https://cafebuddy.app/) to learn more!
 
-🔭 Check out my open-source Android app [here](https://github.com/juliancoronado/MinimalBitcoinWidget)!
+🔭 Check out my open-source Android app [Minimal Bitcoin Widget](https://github.com/juliancoronado/MinimalBitcoinWidget)!
 
-📫 And you can reach me @ julian.c28@gmail.com or by visiting my [personal website](https://jcoronado.dev)!
+📫 And you can reach me via julian.c28@gmail.com or by visiting my [portfolio](https://jcoronado.dev)!
 
-😄 Pronouns: he/him/his
+😄 Pronouns: he/him
 
 🖥 Thanks for checking out my GitHub page!
